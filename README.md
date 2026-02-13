@@ -44,8 +44,13 @@ L-BFGS-B
 
 📚 References
 https://quantum.cloud.ibm.com/learning/en/modules/computer-science/vqe
+
 https://quantum.cloud.ibm.com/learning/en/courses/quantum-chem-with-vqe
+
 https://pyscf.org/quickstart.html
+
 https://qiskit-community.github.io/qiskit-nature/tutorials/01_electronic_structure.html
+
 https://docs.scipy.org/doc/scipy/reference/optimize.html#module-scipy.optimize
+
 Hybrid quantum–classical VQE implementation for molecular ground-state energy simulation using Qiskit and PySCF.
